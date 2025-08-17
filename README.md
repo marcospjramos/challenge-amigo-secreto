@@ -20,4 +20,4 @@ O projeto permite cadastrar nomes de amigos em uma lista e, ao final, realizar o
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/marcospjramos/challenge-amigo-secreto.git
