@@ -17,7 +17,7 @@ function exibirListaAmigos() {
 
 function adicionarAmigo(){
     let nomeDoAmigo = document.getElementById('amigo').value;
-    if (nomeDoAmigo == '' || nomeDoAmigo == ' '){
+    if (nomeDoAmigo.trim() == ''){
         alert('Por favor, insira um nome');
     } else {
     if (listaAmigos.includes(nomeDoAmigo)) {
