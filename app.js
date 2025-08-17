@@ -52,5 +52,8 @@ function sortearAmigo() {
         listaAmigos = [];
         // retira os valores que estavam em exibição na tela
         exibirListaAmigos();
+    } else if (listaAmigos.length == 0){
+        let amigoSorteado = document.getElementById('resultado');
+        amigoSorteado.innerHTML = '';
     }
 }
