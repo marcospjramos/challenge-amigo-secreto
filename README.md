@@ -1,7 +1,7 @@
 ## Autor
 
 **Marcos Ramos**
-[GitHub](https://github.com/marcospjramos) - [LinkedIn](www.linkedin.com/in/marcospjramos)
+[GitHub](https://github.com/marcospjramos) - [LinkedIn](https://www.linkedin.com/in/marcospjramos)
 
 # Amigo Secreto
 
